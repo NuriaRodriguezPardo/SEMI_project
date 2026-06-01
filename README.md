@@ -105,4 +105,6 @@ Designed as an interactive poster to engage public curiosity:
 3. **Styling:** I used `blockquote` (`>`) and `table` to give it a structured, "documentation" feel.
 4. **Interactive:** The links and checkboxes (if you add them) will work natively.
 
-One quick tip: In the `Arduino.list()[0]` part of your code, if it doesn't work on the first try, remember to check the console for the correct index! Do you need a specific "Troubleshooting" section added to this README?
+---
+
+Website link: https://nuriarodriguezpardo.github.io/SEMI_project/ 
